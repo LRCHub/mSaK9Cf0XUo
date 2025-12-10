@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Eclipse",
+  "base_artist": "Aimer",
+  "createdAt": "2025-12-10T05:18:37.805671Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Eclipse",
+      "artist": "Pink Floyd",
+      "has_synced": true,
+      "path": "select/01_Eclipse_Pink_Floyd.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Eclipse / Blue",
+      "artist": "Nosaj Thing feat. Kazu Makino",
+      "has_synced": true,
+      "path": "select/02_Eclipse___Blue_Nosaj_Thing_feat._Kazu_Makino.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Eclipse/Blue (feat. Kazu Makino)",
+      "artist": "Nosaj Thing",
+      "has_synced": true,
+      "path": "select/03_Eclipse_Blue_(feat._Kazu_Makino)_Nosaj_Thing.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Total Eclipse Of The Moon",
+      "artist": "Enigma",
+      "has_synced": true,
+      "path": "select/04_Total_Eclipse_Of_The_Moon_Enigma.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Total Eclipse",
+      "artist": "Iron Maiden",
+      "has_synced": true,
+      "path": "select/05_Total_Eclipse_Iron_Maiden.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love Conquers All - The Morales 'Eclipse' Mix",
+      "artist": "ABC",
+      "has_synced": false,
+      "path": "select/06_Love_Conquers_All_-_The_Morales_'Eclipse'_Mix_ABC.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love Conquers All (The Morales 'Eclipse' Mix)",
+      "artist": "ABC",
+      "has_synced": false,
+      "path": "select/07_Love_Conquers_All_(The_Morales_'Eclipse'_Mix)_ABC.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Eclipse (feat. Substantial)",
+      "artist": "Nujabes feat. Substantial",
+      "has_synced": true,
+      "path": "select/08_Eclipse_(feat._Substantial)_Nujabes_feat._Substantial.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Eclipse Song",
+      "artist": "Hooverphonic",
+      "has_synced": false,
+      "path": "select/09_The_Eclipse_Song_Hooverphonic.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Eclipse",
+      "artist": "The Beta Band",
+      "has_synced": false,
+      "path": "select/10_Eclipse_The_Beta_Band.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mesmerization Eclipse",
+      "artist": "Captain Beyond",
+      "has_synced": true,
+      "path": "select/11_Mesmerization_Eclipse_Captain_Beyond.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Eclipse",
+      "artist": "Aimer",
+      "has_synced": false,
+      "path": "select/pl_01_Eclipse_Aimer.txt"
+    }
+  ]
+}
